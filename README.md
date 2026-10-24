@@ -1,4 +1,21 @@
-# 晴湾对决 · 方块原型 v0.2
+# 森林伙伴对决 · 方块原型 v0.3
+
+## 当前版本 v0.3：纹理森林与经典蓝色界面
+
+先看图片：[下载实际游戏截图包](https://github.com/Hetong-png/-/raw/refs/heads/downloads/Forest-v0.3-Actual-Screenshots.zip)。解压后打开两张 PNG，不需要游戏即可检查画面。
+
+[下载 Windows 森林版客户端](https://github.com/Hetong-png/-/raw/refs/heads/downloads/SunnyBay-Windows-x64.zip)（约 46.5 MB）。解压后运行 SunnyBay.exe。
+
+已实装草地与泥路材质混合、Alpha Scissor 树冠、纹理石头、蓝色 HUD、动态小地图、可点击技能槽与本地消息输入。角色仍为方块占位。34 项功能检查通过；Linux release 运行检查通过，Windows 尚未实机验收。
+
+![森林营地实际截图](screenshots/03-forest-camp.png)
+
+![森林对战实际截图](screenshots/04-forest-battle.png)
+
+T 输入本地消息，Enter 发送；输入期间不会移动角色。本地消息不是联网聊天。草地等环境贴图为本项目生成，未加入数码兽模型、数码兽贴图或商业游戏提取物。
+
+以下保留历史说明，v0.3 以森林版实际图片及本节为准。
+
 
 ## 下载 Windows 游戏
 

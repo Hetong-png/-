@@ -1,1 +1,3 @@
-57fc3e054697325809e399736180ad3f475520959538ffb52e19858f58ffae79  SunnyBay-Windows-x64.zip
+c846addcfc5ea536ad757d1dd5c58f45b2b49cf20dfe034eb50c4a0ca0b4a70a  SunnyBay-Windows-x64.zip
+f3e46ad315eb61bfdc876b7772f1a816cee0e9a685b50cc620025e82ec341b31  Forest-v0.3-Actual-Screenshots.zip
+079a925f16441b8304be151624aae3056af1ebbd4d1cd1ef36f826bcbab50a57  Forest-Style-Preview.zip
